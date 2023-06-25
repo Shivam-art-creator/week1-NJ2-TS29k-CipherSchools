@@ -1,2 +1,5 @@
-console.log(typeof(score1));
-// console.log(typeof(result1));
+name();
+// // var name2 = "Apoorva";
+// var name = function(){
+//     console.log('hello');
+// } 
